@@ -1,2 +1,0 @@
-This is the integral with the Trapezoid Rule: 8.218924
-This is the integral with the Simpsons Rule: 8.22269
