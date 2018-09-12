@@ -1,3 +1,1 @@
-# TheDangerZone
-Welcome to the danger zone.
-(Physics 177)
+Physics 177 Homework Repository
